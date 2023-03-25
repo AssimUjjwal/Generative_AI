@@ -1,6 +1,6 @@
 import requests
 
-url = "https://personalized-brand.api.rephrase.ai/v2/campaign/eOQh0jiniCbqjfUz5gkzX9kZuONz4Q/export"
+url = "https://personalized-brand.api.rephrase.ai/v2/campaign/dPzL1NEcJy3Xv1WZ3dFevAHv2M67Gu/export"
 
 headers = {
     "accept": "application/json",

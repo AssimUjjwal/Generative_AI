@@ -1,7 +1,7 @@
 import os
 import requests
 
-with open('resume_summery.txt', 'r') as f:
+with open('Resume_summery.txt', 'r') as f:
     file_contents = f.read()
     line = file_contents.split('\n')
 

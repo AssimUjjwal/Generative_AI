@@ -1,5 +1,5 @@
 import requests
-with open('output.txt', 'r') as f:
+with open('Resume_output.txt', 'r') as f:
     file_contents = f.read()
 
 
@@ -15,3 +15,6 @@ headers = {
 response = requests.request("POST", url, data=payload, headers=headers)
 
 print(response.text)
+with open('Resume_summery.txt', 'w') as f:
+            with f:
+                f.write(response.text)

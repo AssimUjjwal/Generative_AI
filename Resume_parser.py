@@ -1,7 +1,7 @@
 import PyPDF2
 
 # Open the PDF file in binary mode
-with open('Assim_Ujjwal_SDE_Resume.pdf', 'rb') as file:
+with open('/Resume/Assim_Ujjwal_SDE_Resume.pdf', 'rb') as file:
 
     # Create a PDF reader object
     reader = PyPDF2.PdfReader(file)
@@ -14,7 +14,7 @@ with open('Assim_Ujjwal_SDE_Resume.pdf', 'rb') as file:
         page = reader.pages[i]
         text = page.extract_text()
 
-        with open('output.txt', 'w') as f:
+        with open('Resume_output.txt', 'w') as f:
             with f:
                 f.write(text)
                 
