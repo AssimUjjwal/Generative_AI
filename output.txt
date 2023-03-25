@@ -1,0 +1,144 @@
+ASSIM 
+UJJWAL
+ACADEMIC PROFILE
+Degree/Certificate
+Institution
+Percentage/CGPA
+Year
+B-Tech
+Civil Engineering IIT (BHU), Varanasi
+9.18
+2024
+CBSE (XII)
+D.A.V. Public School, Ratwar, Mohania
+93.40
+2020
+CBSE (X)
+D.A.V. Public School, Ratwar, Mohania
+96.40
+2018
+SKILLS
+Programming Languages:
+ C, C++, JavaScript, Solidity(Basics).
+Web Technologies:
+ ReactJs, Redux, NodeJS, MongoDB, Flask Rest API.
+Areas of interest:
+ Data Structures and Algorithms, Web Development, Competitive Programming, ML(basics).
+Tools & Tech.:
+ Git, GitHub, Firebase Hoisting, Truffle, Ganache.
+PROJECTS
+May '22 - June '22
+Recommendation Engine - MovieDB
+Built a Rest API-based movie recommendation engine utilizing 
+content-based collaborative filtering algorithm
+ and
+TF-IDF for personalized movie recommendations. -Microsoft Engage 
+GitHub
+Conducted an analysis of various 
+recommendation engine types
+ to identify and eliminate the cold-start problem,
+while ensuring scalability for multiple users
+Implemented 
+JWT token-based authentication
+ and validation for web application security.
+Tech Used:
+ ReactJS, Redux, NodeJS, Rest API(Flask), MongoDB, Pandas, scikit-learn.
+November '21 - January '22
+SocialMate: Connect, Share, and Engage with the World
+Developed a MERN-based social media app, enabling users to create accounts, share posts, and engage with others
+through features like 
+liking and following
+. 
+GitHub
+Implemented user 
+authentication
+ and efficient 
+server-side data management
+ of user credentials and posts.
+Utilized React-Redux for efficient 
+state management
+ and deployed the app on Firebase for better scalability and
+accessibility.
+Tech Used:
+ ReactJS, NodeJS, MongoDB 
+(MERN Stack)
+, 
+Firebase hoisting
+ service.
+January '23 - February '23
+Blockchain-Based E-Voting System | V-Dapp
+Developed a secure and reliable e-voting system using 
+blockchain technology
+. 
+GitHub
+Empowered officials with capabilities such as voter verification, candidate listing, and election phase management.
+Provided voters with functionalities such as registration, candidate viewing, and casting of votes.
+Tech Used:
+ 
+Truffle, Ganache, Solidity, Web3 JS, React JS
+January '21 - February '21
+Shortest Path Visualizer | Graph
+Created a web application to find the shortest path between two cities with the option of 
+roadways and airways
+(limited to one-time use).
+Implemented BFS, DFS, and 
+Dijkstra Algorithm
+ to achieve the shortest path and included features such as
+generating a random city path and providing the shortest solution.
+Tech Used:
+ 
+Graph Theory
+, ReactJs
+POSITION OF RESPONSIBILITY
+March 2022 - April 2022
+Executive | Publicity Team SPARDHA'21 sport fest
+Persuaded many contingent leaders of national colleges to take part in the fest. Also greatly publicised the fest's reach
+by 
+leading
+ a team of 
+30+ members
+.
+HONOURS AND ACHIEVEMENTS
+Rank 
+6477
+ in 
+JEE Advanced
+ 2020 - among more than 150,000 short-listed candidates
+Rank 
+8002
+ in 
+JEE Main
+ 2020 - among more than a million candidates
+Rank 
+1045
+ in 
+KVPY
+ (SX stream) 
+Fellowship
+ 2019, Kishore Vaigyanik Protsahan Yojana
+Rank 
+14
+ in 
+NTSE
+ (Stage 1) 2018 National Talent Search Examination
+EXTRA-CURRICULAR ACTIVITIES
+Participated in 
+PRAVAAHA'22
+ Water Technical Fest, 
+IIT Roorkee
+ and animated water scarcity levels over the years.
+Awarded for 
+Zonal Excellence
+ at 
+National Science Olympiad 2017
+ - Zonal Rank - 
+8
+ and International Rank - 
+416
+.
+T:
+ 6203236347 
+E:
+ assimfrommohania@gmail.com 
+Address:
+ Mohania, Ward No. 15, Kaimur, Bihar
